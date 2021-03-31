@@ -22,6 +22,7 @@ ubah title atau judul dengan BELAJAR HTML
 2. Membuat Paragaf
 
 kita akan membuat paragaf dengan isi paragaf seperti ini :
+
 ![image](https://user-images.githubusercontent.com/56193251/113149098-d8fc6c00-925c-11eb-8014-baf37c13620f.png)
 
 ketik paragaf tersebut di bagian di bawah BODY 
