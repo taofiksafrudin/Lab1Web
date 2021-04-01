@@ -90,6 +90,26 @@ Dan tampilan halamanya seperti ini :
 
 ![image](https://user-images.githubusercontent.com/56193251/113154682-7312e300-9262-11eb-8a58-1f7ac2da8c66.png)
 
+![image](https://user-images.githubusercontent.com/56193251/113319638-db81c300-933b-11eb-96a8-d7d87332f19d.png)
+
+<b>JAWAB</b>
+1. Alhamdulillah tidak ada, hanya sajah ada kesalahan dalam penulisan kode.
+2. tag (p) adalah berfungsi untuk membuat paragaf baru dan tag (br) di gunakan untuk membuat baris baru atau berpindah barisi.
+   kesimpulannya jika kita ingin membuat baris baru tanpa jarak menggunakan tag (br)
+   dan sebaliknya jika kita ingin membuat baris baru dengan jarak menggunakan tag (p).
+3. atribut atribut tilte untuk memberikan informasi tambahan pada gambar. Title image ini dipakai untuk memberikan judul untuk gambar milik Anda.
+   Text yang Anda masukkan pada tag judul tidak akan ditampilkan pada setiap pengguna ketika gambar tidak bisaditampilkan.
+   sedangkan atribut alt untuk memberikan deskripsi alternatif pada gambar. teks ini akan muncul pada wadah gambar ketika gambar tidak ditampilkan.
+4. saya rasa perlu di isi keduanya. karna kita bisa mengatur tinggi dan lebar sesuai keinginan kita. tapi jika hanya ingin mengatur ukuran tinggi gambar
+   kita hanya perlu mengatur heightnya sajah, dan sebaliknya.
+5. a. <b>blank</b> untuk membuka link di tab baru.
+   b. <b>self</b> untuk membuka link di frame link itu berada. ini merupakan setelan dasar link jika pada elemen link tidak diberi atribut target.
+   c. <b>top</b> untuk membuka link di frame paling atas (paling luar).
+   d. <b>parent</b> untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada.
+      secara simple-nya begini :
+      jika di website(1) di dalamnya ada website(2) lalu di website(2) ini ada link dan kita klik, maka link akan terbuka di website(1).
+
+
 
 
 
